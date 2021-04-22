@@ -1,4 +1,4 @@
-# Primeiros projetos de programação para web
+<h1 align="center">Primeiros projetos de programação para web</h1>
 
 ### Objeito desse repositório é explorar e aprender sobre o github e as tecnologias mais usadas no desenvolvimento front end:
 1. HTML;
